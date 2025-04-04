@@ -131,7 +131,7 @@ ___
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="175" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CaioS-ouza&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
   />
@@ -139,7 +139,7 @@ ___
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175"
+      height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caios-ouza&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
