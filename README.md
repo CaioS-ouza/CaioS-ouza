@@ -145,6 +145,3 @@ ___
 
 </p>
 
-![Snake Game](https://github.com/CaioS-ouza/CaioS-ouza/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CaioS-ouza&repo=CaioS-ouza&theme=react)](http://gitub.com/CaioS-ouza/CaioS-ouza)
