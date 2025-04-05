@@ -2,7 +2,12 @@
 
 **`Software Developer Fullstack`**
 
-Hello!! my name is Caio, I'm 19 years and natural from Rio de Janeiro, Brazil. I'm studing at the UFRJ, and looking for more knowledge in the technology area, i like this area since i was young, so i started to searching in the internet some things about computers, eletronichs, and watch tutorials of build simple lines of code and started to follow them (my first line of code was in "Portugol").At the High school i had a chance to be part of a robotic team named Robot The One(Robot'One), in the school Firjan Sesi Tijuca, where i learn more of robotic and where i could put my hands to work and learned more about team work.   
+Hi! I'm Caio, a 19-year-old student from Rio de Janeiro, Brazil.
+I'm currently studying at UFRJ and always looking to expand my knowledge in the technology field. Since I was a kid, I've been passionate about computers and electronics. I started exploring on my own—watching tutorials, building simple programs, and writing my first lines of code using Portugol.
+
+In high school, I had the opportunity to join a robotics team called Robot The One (Robot'One) at Firjan SESI Tijuca. It was an amazing experience where I deepened my knowledge in robotics, got hands-on experience, and learned the importance of teamwork.
+
+I'm always open to learning new things and collaborating on interesting tech projects!   
 
 ___
 
